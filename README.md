@@ -1,2 +1,2 @@
 ## Deployed At
-moyang.github.io/escape-room-password
+moywang.github.io/escape-room-password
